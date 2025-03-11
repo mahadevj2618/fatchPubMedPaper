@@ -10,7 +10,7 @@ companies, and saves the results in a CSV file.
 ## Installation
 ### 1. Clone the Repository
 ```
-git clone https://github.com/mahadevj2618/fatchPubMedPaper.git
+[git clone https://github.com/mahadevj2618/fatchPubMedPaper.git](https://github.com/mahadevj2618/fatchPubMedPaper.git)
 cd pubmed_paper_fetcher
 ```
 ### 2. Install Dependencies
