@@ -1,0 +1,9 @@
+🚀 Ready to Run!
+1. Run the script with a query:
+    python script.py "biotechnology"
+
+2. Save results to a file:
+    python script.py "biotechnology" -f results.csv
+
+3. Enable debug mode:
+    python script.py "biotechnology" -d
